@@ -1,0 +1,15 @@
+/Users/guillermomartinez/IterationStatementsProject/IterationStatement/IterationStatement/bin/Debug/net6.0/IterationStatement
+/Users/guillermomartinez/IterationStatementsProject/IterationStatement/IterationStatement/bin/Debug/net6.0/IterationStatement.deps.json
+/Users/guillermomartinez/IterationStatementsProject/IterationStatement/IterationStatement/bin/Debug/net6.0/IterationStatement.runtimeconfig.json
+/Users/guillermomartinez/IterationStatementsProject/IterationStatement/IterationStatement/bin/Debug/net6.0/IterationStatement.dll
+/Users/guillermomartinez/IterationStatementsProject/IterationStatement/IterationStatement/bin/Debug/net6.0/IterationStatement.pdb
+/Users/guillermomartinez/IterationStatementsProject/IterationStatement/IterationStatement/obj/Debug/net6.0/IterationStatement.csproj.AssemblyReference.cache
+/Users/guillermomartinez/IterationStatementsProject/IterationStatement/IterationStatement/obj/Debug/net6.0/IterationStatement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guillermomartinez/IterationStatementsProject/IterationStatement/IterationStatement/obj/Debug/net6.0/IterationStatement.AssemblyInfoInputs.cache
+/Users/guillermomartinez/IterationStatementsProject/IterationStatement/IterationStatement/obj/Debug/net6.0/IterationStatement.AssemblyInfo.cs
+/Users/guillermomartinez/IterationStatementsProject/IterationStatement/IterationStatement/obj/Debug/net6.0/IterationStatement.csproj.CoreCompileInputs.cache
+/Users/guillermomartinez/IterationStatementsProject/IterationStatement/IterationStatement/obj/Debug/net6.0/IterationStatement.dll
+/Users/guillermomartinez/IterationStatementsProject/IterationStatement/IterationStatement/obj/Debug/net6.0/refint/IterationStatement.dll
+/Users/guillermomartinez/IterationStatementsProject/IterationStatement/IterationStatement/obj/Debug/net6.0/IterationStatement.pdb
+/Users/guillermomartinez/IterationStatementsProject/IterationStatement/IterationStatement/obj/Debug/net6.0/IterationStatement.genruntimeconfig.cache
+/Users/guillermomartinez/IterationStatementsProject/IterationStatement/IterationStatement/obj/Debug/net6.0/ref/IterationStatement.dll
